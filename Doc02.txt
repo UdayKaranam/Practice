@@ -1,7 +1,13 @@
 First Commit 
 
-This is Uday Karanam. Works as Performance Tester for HCL Limited. 
+This is Uday Karanam. Works as Performance Tester for HCL Tech Limited. 
+
+Added
 
 Second Commit
 
+Modified
+
 Handling RBS, BOI & UKAR Projects
+
+
